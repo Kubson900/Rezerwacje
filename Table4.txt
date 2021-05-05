@@ -1,0 +1,4 @@
+Cow 6 4 0
+Millman 10 3 10
+Hudson 15 4 8
+Lorenzo 22 3 9

@@ -1,0 +1,5 @@
+Smith 8 2 10
+Kowalski 10 1 15
+Osaka 12 2 8
+Pitt 16 1 0
+Jefferson 20 2 13
